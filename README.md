@@ -1,3 +1,7 @@
-[![Stories in Ready](https://badge.waffle.io/asu-cis-capstone/rustyrhino.png?label=ready&title=Ready)](https://waffle.io/asu-cis-capstone/rustyrhino)
 # rustyrhino
-Repo for team Rusty Rhino
+Repo for project Rusty Rhino
+
+Elevator pitch: 
+Team members: Papa smurf, Smurfette, Brainey smurf, Jokey smurf
+Measurement plan & baseline:
+Prototype ties:
