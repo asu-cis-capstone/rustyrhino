@@ -10,5 +10,7 @@ Team members: Papa smurf (Chris Walters), Smurfette (Harika Adivikolanu), Braine
 <br />
 Measurement plan & baseline:
 <br />
+<img src="GANTT%20Chart.png" />
+<br />
 Prototype ties:
 <br />
